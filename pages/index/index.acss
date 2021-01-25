@@ -1,0 +1,6 @@
+.index{
+    padding-top: 500rpx;
+    margin: 0 auto;
+    font-size: 24rpx;
+    text-align: center;
+}
